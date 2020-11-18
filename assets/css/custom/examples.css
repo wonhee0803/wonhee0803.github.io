@@ -416,7 +416,7 @@ p{
 }
 
 .pink {
-  color: #990000;
+  color: #38ACEC;
 }
 
 
@@ -469,7 +469,7 @@ position: absolute;
 }
 .highlight-container:before {
 background: rgba(0, 90, 113, 0.7);
-transform: rotate(10deg);
+transform: rotate(3deg);
 top: -1px;
 left: -1px;
 }
